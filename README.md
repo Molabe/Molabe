@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://rsta3-api.vercel.app/images/banner.gif" />
-</p>
-
 <h1 align="center">👋 Hi, I'm Molabe</h1>
 
 <p align="center">
