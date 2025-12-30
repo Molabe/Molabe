@@ -38,15 +38,6 @@
 
 ---
 
-<h3 align="center">🎧 Discord Status</h3>
-
-<p align="center">
-  <a href="https://discord.com/users/molabe">
-    <img src="https://lanyard.cnrad.dev/api/molabe?theme=dark&bg=000000&animated=true&hideDiscrim=true&borderRadius=12px" />
-  </a>
-</p>
-
----
 
 <h3 align="center">🔗 Connect with me</h3>
 
