@@ -30,18 +30,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Molabe&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molabe&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 <h3 align="center">🔗 Connect with me</h3>
 
 <p align="center">
