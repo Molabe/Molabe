@@ -1,7 +1,58 @@
-👋 Hi there! I'm **Molabe** — that's the name most people know me by in the gaming and development communities.
+<h1 align="center">👋 Hi, I'm Molabe</h1>
 
-🎓 I'm currently a student at **SSOŠ in Nitra**, where I study **programming**. My main focus is on languages and technologies like **Java**, **HTML**, **CSS**, **JavaScript**, and **SQL**.
+<p align="center">
+  🎓 Programming student at <b>SSOŠ Nitra</b><br>
+  💻 Java & Web Developer<br>
+  🎮 Gaming & Development Enthusiast
+</p>
 
-💻 In my free time, I enjoy diving deeper into web development with **React**, styling with **Bootstrap**, and building fun and functional **Discord bots using Discord.js**.
+---
 
-I'm always looking to learn new things and work on interesting projects — feel free to check out my repositories!
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,nodejs,express&theme=dark&perline=3" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,blender&theme=dark&perline=3" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Molabe&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molabe&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+<h3 align="center">🔗 Connect with me</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-molabe-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://steamcommunity.com/id/molabe/">
+    <img src="https://img.shields.io/badge/Steam-molabe-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Check out my repositories and feel free to leave a star
+</p>
