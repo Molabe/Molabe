@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  🎓 Programming student at <b>SSOŠ Nitra</b><br>
   💻 Java • Web Development • JavaScript<br>
   🎮 Gaming & Development Enthusiast
 </p>
